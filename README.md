@@ -23,7 +23,7 @@ __lecturer__ - Tutor at Full-Stack web course
 * design and build exercises in html css and JavaScript  
 * design and build exercises in react and node  
 
-> Intel corporation: `May 1018 - Oct 2020`  
+> Intel corporation: `May 2018 - Oct 2020`  
 
 __Full Stack Developer__ - Design and development internal DevOps systems based on web aps  
 * CI/CD systems implemented with vue.js nodejs and mongodb  
@@ -31,7 +31,7 @@ __Full Stack Developer__ - Design and development internal DevOps systems based 
 * Other micro services and application  
 * Experience with ALM systems and working at scrum metodology  
 
-> Lev Academic Center `2017 - 218`  
+> Lev Academic Center `2017 - 2018`  
 
 __Tutored__ - Provided private lessons to students in the following courses  
 * Workshop in C ++  
