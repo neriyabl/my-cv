@@ -6,7 +6,16 @@ I'm a computer scientist who is impressed by the whole world of tech
 love to learn and use interesting technologies and research everything's  
 
 ## 💼 Work experience
-> Orcam Technologies: `Oct 2020 - Present`  
+
+> Phone.do: `Dec 2022 - Present`
+
+__Senior software developer__ - Design and development of an innovative system for customer services  
+* Server side development in php moving to node.js and microservices architecture instead of monolithic moving from a machine in Digital Ocean to aws ecr
+* Development of a central feature that allows end-to-end conversations in React Node php and postgresssql
+* Microservices architecture planning, building Dockerfiles and Github Action for ci/cd
+* Regular help for the teams (help with Git, debugging, code reviews and more...)
+
+> Orcam Technologies: `Oct 2020 - Dec 2022`  
 
 __Embedded Software Engineer__ - Development Embedded softwares from FW's for MCU's to deployment and burning scripts
 * HW-test: implement various types of tests to check the HW in the production line  
