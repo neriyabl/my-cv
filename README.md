@@ -11,7 +11,7 @@
 **Senior software developer** - Design and development of an innovative system for customer services
 
 - Server side development in php moving to node.js and microservices architecture instead of monolithic moving from a machine in Digital Ocean to aws ecr
-- Development of a central feature that allows end-to-end conversations in React Node php and postgresssql
+- Development of a central feature that allows end-to-end conversations in React Node php and postgresql
 - Microservices architecture planning, building Dockerfiles and Github Action for ci/cd
 - Regular help for the teams (help with Git, debugging, code reviews and more...)
 
@@ -36,13 +36,6 @@
 - Other micro services and application
 - Experience with ALM systems and working at scrum metodology
 
-> Lev Academic Center `2017 - 2018`
-
-**Tutored** - Provided private lessons to students in the following courses
-
-- Workshop in C ++
-- Digital systems and Boolean logic
-
 ## 📚 Education
 
 > Lev Academic Center, Jerusalem `2016 - 2020`  
@@ -53,6 +46,15 @@
 - Computer graphics project - implement graphic generator using native java (rendering a scene with Ray tracing).
 - Android – Took part in building the class course by creating the POC app in java Android studio using firebase.
 - Building a basic compiler - the relevant parts from Nand2Tetris Implemented with Dart programing language.
+
+## ✨ Others
+
+> Binyamin-tech: `2020 - 2023`
+
+**lecturer** - Tutor at Full-Stack web course
+
+- design and build exercises in html css and JavaScript
+- design and build exercises in react and node.js
 
 ## 👨‍💻 SKILLS & ABILITIES
 
